@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Bienvenue sur le site en hommage au groupe The Sound</title>
+</head>
+
+<header>
+<h1>Bienvenue sur le site en hommage au groupe The Sound</h1>
+
+</header>
+
+<div id="intro">
+<article>
+
+<p>Cette page est née de l'idée de promouvoir ce groupe, trop peu connu du grand public malgrè un talent fou. The Sound est un groupe post-punk culte souterrain des années 1980 au succès reposant fortement sur la personnalité de son chanteur-guitariste Adrian Borland. Avec 5 albums de très grande qualité le groupe se sépara. 
+</br>
+Adrian Borland continua sa carrière en solo mais souffra d'une dépression chronique , qui le poussa à se suicider en 1999
+</p>
+
+</article>
+</html>
